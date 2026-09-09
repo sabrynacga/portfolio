@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a professional portfolio for a software engineering student highlighting AI projects, skills, and contact info with a clean, responsive design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
